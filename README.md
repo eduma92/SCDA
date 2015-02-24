@@ -1,2 +1,0 @@
-# SCDA
-Proyecto
